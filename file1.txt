@@ -1,0 +1,9 @@
+#1/bin/bash
+echo "Hello and Good Morning"
+echo "welcome file1"
+echo "Hello and Good Morning"
+echo "welcome file1"
+echo "Hello and Good Morning"
+echo "welcome file1"
+echo "Hello and Good Morning"
+echo "welcome file1"
